@@ -1,6 +1,4 @@
-# Barkr: Tinder for Dogs
 
-![Barkr Screenshot](https://github.com/niladri-1/Tindog-website/blob/main/img/Demo.png)
 
 ## Description
 
